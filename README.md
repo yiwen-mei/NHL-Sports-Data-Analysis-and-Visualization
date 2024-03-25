@@ -7,7 +7,6 @@ This Tableau dashboard provides a visualization of various statistics from the N
 
 ### Team Performance
 - **Bar Chart**: Displays the total points (PTS) of teams within the Western Conference. Each bar represents a team and is scaled by the number of points achieved during the season.
-- **Filter**: Allows selection of the season year to view different season data.
 - **Team Details**: Shows games played (GP), wins (W), losses (L), overtime losses (OL), and points for the selected team.
 
 ### Goalie Information
@@ -15,4 +14,4 @@ This Tableau dashboard provides a visualization of various statistics from the N
 - **Table**: Lists goalies along with their Goals Against Average (GAA) statistic.
 
 ### Skater Information
-- **Tiles**: Provide quick stats of players from the Anaheim Ducks, displaying points, goals, assists, and other relevant information.
+- **Heatmap**: Provide quick stats of players from the Anaheim Ducks, displaying points, goals, assists, and other relevant information.
